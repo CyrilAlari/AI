@@ -1,0 +1,13 @@
+la loss affichée toutes les 100 games
+le score moyen toutes les 500 games
+
+
+5811888 petit epsilon, une couche 100, 0 mémoire
+7913252 gros epsilon, une couche 100, 0 mémoire
+6901837 new features, petit epsilon, une couche 100, 0 mémoire
+1601829, petit espilon, une couche 100, 10 memoire
+7374750, petit epsilon, une couche 100, 30 memoire
+196176, petit epsilon, une couche 100, 5 memoire
+4849373, petit espilon, 2 couches 24, 5 memoire
+2404, grand epsilon, 1 couche 1000, 10 memoire
+3691, grand epsilon, 2 couche 24, 10 memoire
